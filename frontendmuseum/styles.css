@@ -4,6 +4,12 @@ body {
     padding: 0 40px;
 }
 
+#master a {
+    color: black;
+    padding: 5px;
+    font-size: 20px;
+}
+
 article {
     margin: 18px;
     padding: 18px;
